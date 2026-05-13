@@ -1,0 +1,3 @@
+bugün dersimizde
+PR (pull request) komutunu test edeceğiz.
+melih brenchinden bir güncelleme
